@@ -3,6 +3,15 @@
  *  Copyright 2021 Anthony Sevarino
  */
 
+/* Start program
+ * assign variable for counting how many characters in string
+ * ask user for their input
+ * establish scanner for input
+ * assign variable to user input
+ * establish loop to count characters in string
+ * print message to user with loop variable
+ */
+
 package Solution02;
 
 import java.util.Scanner;
